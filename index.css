@@ -226,7 +226,7 @@ main {
 }
 
 .members {
-  
+  margin-bottom: 60px;
 }
 .members-title {
   font-size: 20px;
@@ -261,4 +261,9 @@ main {
 
 .member-links {
   text-align: center;
+}
+
+.contact {
+  text-align: center;
+  margin-bottom: 60px;
 }
