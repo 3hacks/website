@@ -3,9 +3,6 @@
   font-weight: normal;
   color: #232323;
 }
-a {
-  text-decoration: none;
-}
 body {
   background-color: #f8f8f8;
   padding-bottom: 130px;
@@ -216,6 +213,7 @@ main {
 
 .description {
   line-height: 24px;
+  margin-bottom: 60px;
 }
 
 @keyframes main {
@@ -225,4 +223,28 @@ main {
   to {
     opacity: 100%;
   }
+}
+
+.members {
+  
+}
+.members-title {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.member {
+  width: 100%;
+  text-align: center;
+}
+.member-icon {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+
+.member-description {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
