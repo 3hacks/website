@@ -254,3 +254,7 @@ main {
 .member-name {
   font-weight: bold;
 }
+
+.member-links {
+  text-align: center;
+}
