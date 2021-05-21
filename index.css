@@ -250,3 +250,7 @@ main {
   text-align: left;
   line-height: 24px;
 }
+
+.member-name {
+  font-weight: bold;
+}
